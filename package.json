@@ -1,0 +1,12 @@
+{
+  "name": "nodeasmt1",
+  "version": "1.0.0",
+  "description": "<h1>Q1. What is nodeJS?</h1> \r Ans. <i>It is a server-side runtime environment that is open source and based on the Chrome v8 JS engine.\r In order to create server side apps with node js, it offers an event driven, non-blocking, asynchronous programming runtime environment.\r It will display output on a terminal rather than a console.</i>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
